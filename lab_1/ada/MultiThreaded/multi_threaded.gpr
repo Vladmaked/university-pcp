@@ -1,0 +1,5 @@
+project Multi_Threaded is
+    for Source_Dirs use ("src");
+    for Object_Dir use "obj";
+    for Main use ("main.adb");
+end Multi_Threaded;

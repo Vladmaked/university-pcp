@@ -1,4 +1,4 @@
-# IntelliJ IDEA
+# Java
 .idea/
 *.iml
 *.iws
@@ -17,7 +17,7 @@ target/
 *.old
 *.DS_Store
 
-# VS
+# C#
 bin/
 obj/
 Debug/
@@ -43,3 +43,20 @@ packages/
 *.tmp
 *.swp
 *~.nupkg
+
+
+# ada
+
+*.ali
+*.o
+*.ali_dbg
+*.o_dbg
+*.ali_g
+*.o_g
+*.so
+*.a
+*.exe
+*.obj
+*.pdb
+*.lib
+*.dll
